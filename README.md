@@ -44,3 +44,8 @@ Contributions to Foodi-Complete are welcome! If you'd like to contribute to this
 3. Make your changes and commit them (`git commit -am 'Add some feature'`).
 4. Push your changes to your forked repository (`git push origin feature/my-new-feature`).
 5. Create a new pull request on the original repository. 🎉
+
+## Contributors 
+* [@ujjwalkran](https://github.com/ujjwalkran)
+* [@Tarun-Kumar19](https://github.com/Tarun-Kumar19)
+
